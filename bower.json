@@ -1,0 +1,22 @@
+{
+  "name": "angular.timepicker",
+  "version": "1.0.0",
+  "authors": [
+    "Adam Mortka <amortka@pgs-soft.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/vendor",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.0",
+    "angular-lodash": "~0.1.2",
+    "bootstrap-sass-official": "~3.3.4",
+    "angular-bootstrap": "~0.13.0"
+  }
+}

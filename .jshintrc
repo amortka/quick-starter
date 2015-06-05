@@ -1,0 +1,34 @@
+{
+    "bitwise"   : true,
+    "camelcase" : true,
+    "curly"     : true,
+    "eqeqeq"    : true,
+    "forin"     : true,
+    "freeze"    : true,
+    "funcscope" : true,
+    "globals"   : {
+        "angular"   : true,
+        "_"         : true,
+        "moment"    : true,
+        "inject"    : true,
+        "xdescribe" : true
+    },
+    "immed"     : true,
+    "indent"    : 4,
+    "latedef"   : "nofunc",
+    "newcap"    : true,
+    "noarg"     : true,
+    "noempty"   : true,
+    "nonew"     : true,
+    "quotmark"  : "single",
+    "undef"     : true,
+    "unused"    : true,
+
+    "strict"    : true,
+    "validthis" : true,
+
+    "browser"   : true,
+    "jasmine"   : true,
+    "jquery"    : true,
+    "node"      : true
+}
